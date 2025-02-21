@@ -12,10 +12,8 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
+    analytics: null,
+    locale: "de-DE",
     baseUrl: "marcelweitzel.github.io/nihonryokou/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
