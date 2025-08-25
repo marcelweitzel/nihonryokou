@@ -2,7 +2,7 @@
 draft: "true"
 ---
 Wohnung und Job gekündigt, Strom, Internet, Handyvertrag. Alles abgemeldet. 
-Aber das wichtigste hab ich natürlich aufgeschoben: Das [[WH-Visa|Visum]].
+Aber das wichtigste hab ich natürlich aufgeschoben: Das [[WH-Visum|Visum]].
 Und natürlich nicht nur ein paar Tage, oder Wochen
 Ich hatte vor es im April zu beantragen. Da fing ich auch an. 
 Tabs zu öffnen
