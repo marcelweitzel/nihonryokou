@@ -1,5 +1,7 @@
 Eine Zitrone.
+
 ![[Zitronenposting.jpg|500]]
+
 Unerwartet?
 Fanden wir auch, als wir durch eine kleine Seitengasse den Weg zurück zum Hotel suchten, im April 2024.
 
