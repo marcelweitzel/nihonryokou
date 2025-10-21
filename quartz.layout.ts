@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       filterFn: (node) => {
-        return node.slugSegments.contains("Blog")
+        return node.slugSegments.includes("Blog")
       }
     }),
   ],
