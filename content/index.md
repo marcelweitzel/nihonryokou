@@ -13,4 +13,4 @@ Aber das heißt ja noch lange nicht, dass ich mir davon meine Pläne schmälern 
 Als Einstieg vielleicht, warum will ich nach Japan?
 Naja, es ist nicht mein erstes mal. Aber auf jeden Fall das erste mal in der Dauer.
 
-Nen Text was ich an Japan so faszinierend finde, schreibe ich ein anders mal, aber [[(2) Beantragt|hier]] ist der Moment der mir vermutlich am meisten den Atem verschlagen hat.
+Nen Text was ich an Japan so faszinierend finde, schreibe ich ein anders mal, aber [[Blog/(1) Es war einmal|hier]] ist der Moment der mir vermutlich am meisten den Atem verschlagen hat.
