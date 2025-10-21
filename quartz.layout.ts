@@ -40,12 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       filterFn: (node) => {
-        return node.file.slug.startsWith("Blog/")
-      },
-      sortFn: (a, b) => {
-        const numA = parseInt(a.displayName.match(/^\((\d+)\)/)?.[1] || "0");
-        const numB = parseInt(b.displayName.match(/^\((\d+)\)/)?.[1] || "0");
-        return numB - numA;
+        return node.slugSegment ==="Blog/"
       }
     }),
   ],
