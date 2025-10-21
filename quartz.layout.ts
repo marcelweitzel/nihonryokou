@@ -41,8 +41,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       filterFn: (node) => {
         const blogfolder = "Blog"
+        const exkurseFolder = "Exkurse"
         if(node.depth ===1) return true
-        if(node.slugSegments[0]===blogfolder) return true
+        if(node.slugSegments[0]===blogfolder||node.slugSegments[0]===exkurseFolder) return true
         return false
       }
     }),
