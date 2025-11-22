@@ -1,0 +1,3 @@
+![[MOSBurgersauce.jpg]]Stellt euch die McDonalds-Süßsauer-Saucen-Dinger vor. Aber mit weicherem Plastik, fast wie ne Tüte, und 2 Stück davon sind aneinander dran.
+Wenn man die knickt und die Tüten gegeneinader drückt, öffnet sich das päckchen auf der "Oberseite" automatisch und man die sie Sauce ausquetschen. Sauber, einfach, absolut faszinierend. Ich werde ab jetzt immer wütend auf die blöden Mayonaise-Tüten gucken die in Deutschland benutzt werden, und erst recht wütend werden, wenn die mal wieder nicht richtig einreißen, und die Mayo sich überall verteilt, außer dort wo ich sie haben will.
+Sollbruchstellen. Eine tolle Erfindung. Warum benutzt wir sowas nicht in Deutschland.
